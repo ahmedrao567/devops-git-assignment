@@ -1,0 +1,3 @@
+b9690d7 In this commit i modify the app.sh and cretaed a branch
+c05c12e In this commit i have echo command in app.sh and give a brief info about git in notes.md
+e1f4b0f in this commit i hav created doc and app direcotries with respective files and addded a small note in readme.md
